@@ -3,7 +3,7 @@ import os
 
 def main():
   i =0
-  path="/Users/najah/Desktop/devmiddle/programming/python_six_projects/images/"
+  path="/path/path/"
   for filename in os.listdir(path):
     my_dest='images'+'_'+str(i)+".jpg"
     my_source=path+filename

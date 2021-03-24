@@ -4,7 +4,7 @@
 
 
 import qrcode
-data='fuck you'
+data='hello iam najah said ahmed '
 
 # img=qrcode.make(data)
 # img.save('img.png')
